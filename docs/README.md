@@ -10,10 +10,7 @@ actions:
     link: https://blog.arisa.moe/
     type: primary
   - text: mokabot2 文档
-    link: https://docs.arisa.moe/mokabot2
-    type: secondary
-  - text: API 文档
-    link: https://docs.arisa.moe/api
+    link: https://docs-mokabot.arisa.moe/
     type: secondary
   - text: 自动签到
     link: https://qiandao.arisa.moe/
